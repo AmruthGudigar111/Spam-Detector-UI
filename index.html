@@ -39,7 +39,7 @@
     <script>
         async function checkSpam() {
             const text = document.getElementById('message').value;
-            const res = await fetch('https://spam-detector-api.onrender.com/predict', {
+            const res = await fetch('https://spam-detector-ui.onrender.com/predict', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({ text })
