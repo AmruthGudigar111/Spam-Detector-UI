@@ -6,7 +6,7 @@ Built with FastAPI (backend), Bootstrap (frontend), and deployable via Render & 
 
 ---
 
-🚀 Features
+**🚀 Features**
 
     ✨ Modern web UI with Bootstrap and custom branding
 
@@ -20,7 +20,7 @@ Built with FastAPI (backend), Bootstrap (frontend), and deployable via Render & 
 
 ---
 
-🛠️ Technologies Used
+**🛠️ Technologies Used**
 
     Python, FastAPI, scikit-learn, joblib
 
@@ -34,7 +34,8 @@ Built with FastAPI (backend), Bootstrap (frontend), and deployable via Render & 
 
 ---
 
-📦 Project Structure
+**📦 Project Structure**
+
 ```bash
 Spam_Detection_Integration_Tool/
 ├── Training Model/
@@ -53,7 +54,7 @@ Spam_Detection_Integration_Tool/
 
 ---
 
-📈 Demo
+**📈 Demo**
 
 **Frontend:** https://amruthgudigar111.github.io/Spam-Detector-UI/
 
@@ -61,7 +62,7 @@ Spam_Detection_Integration_Tool/
 
 ---
 
-🧑‍💻 Developed by
+**🧑‍💻 Developed by**
 Amruth Gudigar — AI & Web Developer
 
 🔗 [Portfolio](https://amruthgudigar111.github.io/Portfolio/)  
