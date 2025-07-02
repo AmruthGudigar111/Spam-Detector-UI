@@ -19,6 +19,10 @@ model = joblib.load("spam_model.pkl")
 class Message(BaseModel):
     text: str
 
+@app.get("/")
+def read_root():
+    return {"message": "Spam Detection API is live!"}
+
 @app.post("/predict")
 def predict_spam(msg: Message):
     prediction = model.predict([msg.text])[0]
