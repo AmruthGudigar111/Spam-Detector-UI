@@ -36,9 +36,14 @@ Built with FastAPI (backend), Bootstrap (frontend), and deployable via Render & 
 
 📦 Project Structure
 ```bash
+Spam_Detection_Integration_Tool/
+├── Training Model/
+│   ├── Deployment_Guide.pdf  # Guide to Setup and Train the Model
+│   ├── Spam_Detector.ipynb # Jupyter Notebook for Model Training
+│   └── spam.csv # Sample dataset for model training
 ├── index.html               # Frontend UI
 ├── main.py                  # FastAPI backend
-├── spam_model.pkl           # Trained ML model (replace with your own)
+├── spam_model.pkl           # Trained ML model
 ├── requirements.txt         # Backend dependencies
 ├── Amruth_Gudigar_Logo.png  # Logo
 ├── Banner Image-Canva.png   # Background banner
@@ -48,13 +53,15 @@ Built with FastAPI (backend), Bootstrap (frontend), and deployable via Render & 
 
 📈 Demo
 
-Frontend: https://amruthgudigar111.github.io/Spam-Detector-UI/
+**Frontend:** https://amruthgudigar111.github.io/Spam-Detector-UI/
 
-Backend API: https://spam-detector-api.onrender.com/predict
+**Backend API:** https://spam-detector-ui.onrender.com/
 
 ---
 
 🧑‍💻 Developed by
 Amruth Gudigar — AI & Web Developer
 
-🔗 Portfolio | 💼 LinkedIn | 📬 Contact
+🔗 [Portfolio](https://amruthgudigar111.github.io/Portfolio/)  
+💼 [LinkedIn](https://linkedin.com/in/amruth-gudigar)  
+📬 [Contact](mailto:amruthgudigar111@gmail.com)
