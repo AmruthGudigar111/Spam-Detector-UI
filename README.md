@@ -1,6 +1,5 @@
-# Spam-Detector-UI
-
 🔍 Spam Message Detection Tool
+
 A full-stack AI-powered web application that detects spam messages using Machine Learning.
 Built with FastAPI (backend), Bootstrap (frontend), and deployable via Render & GitHub Pages.
 
