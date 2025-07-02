@@ -40,13 +40,15 @@ Spam_Detection_Integration_Tool/
 ├── Training Model/
 │   ├── Deployment_Guide.pdf  # Guide to Setup and Train the Model
 │   ├── Spam_Detector.ipynb # Jupyter Notebook for Model Training
-│   └── spam.csv # Sample dataset for model training
+│   └── spam.csv # Sample dataset for model 
+├── img/
+│   ├── Logo.png  # Logo
+│   └── Background.png   # Background banner
 ├── index.html               # Frontend UI
 ├── main.py                  # FastAPI backend
 ├── spam_model.pkl           # Trained ML model
 ├── requirements.txt         # Backend dependencies
-├── Amruth_Gudigar_Logo.png  # Logo
-├── Banner Image-Canva.png   # Background banner
+
 ```
 
 ---
